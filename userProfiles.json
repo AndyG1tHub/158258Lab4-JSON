@@ -1,0 +1,56 @@
+[
+  {
+    "firstName": "Abc",
+    "lastName": "Cba",
+    "email": "123321@qq.com",
+    "dateOfBirth": "2000.01.01",
+    "userPreferences": {
+        "theme": "white",
+        "language": "Chinses",
+        "notifications": "AAA",
+        "subscription": true
+    },
+    "address": {
+      "street": "Street 100",
+      "city": "Shijiazhuang",
+      "state": "Hebei",
+      "zipCode": "10001"
+    }
+  },
+  {
+    "firstName": "Efg",
+    "lastName": "Gfe",
+    "email": "456654@qq.com",
+    "dateOfBirth": "2010.01.01",
+    "userPreferences": {
+      "theme": "black",
+      "language": "Engilsh",
+      "notifications": "BBB",
+      "subscription": false
+    },
+    "address": {
+      "street": "Street 123",
+      "city": "Jinan",
+      "state": "Shandong",
+      "zipCode": "10002"
+    }
+  },
+  {
+    "firstName": "Xyz",
+    "lastName": "Zyx",
+    "email": "890098g@qq.com",
+    "dateOfBirth": "2020.01.01",
+    "userPreferences": {
+      "theme": "green",
+      "language": "French",
+      "notifications": "CCC",
+      "subscription": true
+    },
+    "address": {
+      "street": "Street 300",
+      "city": "Taiyuan",
+      "state": "Shanxi",
+      "zipCode": "30003"
+    }
+  }
+]
